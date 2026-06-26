@@ -315,7 +315,7 @@ Potential enhancements include:
 
 # 👨‍💻 Author
 
-**Abdi Negash**
+**Abdi mekonin negash/Abdi negash**
 
 Machine Learning Intern
 
